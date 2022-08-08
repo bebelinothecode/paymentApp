@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "KenGen Power",
+    "date": "12-01-08",
+    "status": false,
+    "due": "1280.00",
+    "more": "Opps are coming",
+    "img": "assets/images/brand1.png"
+  },
+  {
+    "brand": "ECG",
+    "date": "30-01-08",
+    "status": false,
+    "due": "2280.00",
+    "more": "Opps are coming",
+    "img": "assets/images/brand2.png"
+  },
+  {
+    "brand": "Ghana Water Company",
+    "date": "12-01-08",
+    "status": false,
+    "due": "1280.00",
+    "more": "Opps are coming",
+    "img": "assets/images/brand3.png"
+  },
+  {
+    "brand": "Ghana Gas",
+    "date": "12-01-08",
+    "status": false,
+    "due": "16,478,388",
+    "more": "Opps are coming",
+    "img": "assets/images/brand1.png"
+  },
+  {
+    "brand": "Bebelino",
+    "date": "12-01-22",
+    "status": false,
+    "due": "1280.00",
+    "more": "Opps are coming",
+    "img": "assets/images/brand3.png"
+  }
+]
